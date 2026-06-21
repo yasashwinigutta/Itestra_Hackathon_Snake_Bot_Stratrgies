@@ -1,8 +1,42 @@
-# Itestra Hackathon Snake Bot Strategies
+# Itestra Hackathon
 
 🥇 **1st Place Winner – Itestra Snake Bot Hackathon**
 
 This repository documents my individual strategy development throughout the Itestra Snake Bot Hackathon.
+
+## Final Team Repository
+
+The final structured team repository is available here:
+
+**[https://github.com/VishnucharanS/Itestra_Hackathon]**
+
+This repository contains the final structured implementation developed collaboratively during the hackathon and submitted as the team's official solution.
+
+---
+
+## About This Repository
+
+The purpose of Itestra_Hackathon_Snake_Bot_Stratrgies is different from the final team repository.
+
+This repository serves as a personal record of my individual contributions and strategy development throughout the competition. It documents the evolution of the bot across multiple rounds, changing game rules, and progressively more complex environments.
+
+The strategies presented here include:
+
+Center-diamond apple collection strategies
+Bad-apple endurance strategies
+Star-control strategies
+Sword and boost combat strategies
+Stack-safe survival strategies
+All-items integration strategies
+Final hybrid combat-control survival strategies
+
+Most of my work focused on designing and iteratively improving the strategy modules, while maintaining compatibility with the shared game framework (api.py, Field.py, data_structures.py, and various main files).
+
+Several ideas and strategy components developed here were later adapted and integrated into the final team submission.
+
+For the final polished implementation and complete project structure, please refer to the official team repository above.
+
+##Snake Bot Strategies
 
 The game rules changed repeatedly across rounds, introducing:
 
@@ -172,38 +206,6 @@ Although strategy development was my primary contribution, I also contributed to
 whenever item handling or strategy integration required framework-level changes.
 
 ---
-
-## Final Team Repository
-
-The final structured team repository is available here:
-
-**[https://github.com/VishnucharanS/Itestra_Hackathon]**
-
-This repository contains the final structured implementation developed collaboratively during the hackathon and submitted as the team's official solution.
-
----
-
-## About This Repository
-
-The purpose of Itestra_Hackathon_Snake_Bot_Stratrgies is different from the final team repository.
-
-This repository serves as a personal record of my individual contributions and strategy development throughout the competition. It documents the evolution of the bot across multiple rounds, changing game rules, and progressively more complex environments.
-
-The strategies presented here include:
-
-Center-diamond apple collection strategies
-Bad-apple endurance strategies
-Star-control strategies
-Sword and boost combat strategies
-Stack-safe survival strategies
-All-items integration strategies
-Final hybrid combat-control survival strategies
-
-Most of my work focused on designing and iteratively improving the strategy modules, while maintaining compatibility with the shared game framework (api.py, Field.py, data_structures.py, and various main files).
-
-Several ideas and strategy components developed here were later adapted and integrated into the final team submission.
-
-For the final polished implementation and complete project structure, please refer to the official team repository above.
 
 🥇 **Outcome:**  
 The team secured **1st Place** in the Itestra Snake Bot Hackathon.
